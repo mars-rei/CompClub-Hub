@@ -1,0 +1,29 @@
+{
+    "finalRank": [
+        {
+            "rank": 1,
+            "username": "marsRei",
+            "name": "Mars Rei",
+            "score": "2"
+        },
+        {
+            "rank": 2,
+            "username": "jasmine04k",
+            "name": "Jasmine Kaur",
+            "score": "1"
+        },
+        {
+            "rank": 3,
+            "username": "safMou",
+            "name": "Safica Mougamadou",
+            "score": "1"
+        }
+    ],
+    "podium": [
+        {
+            "competitor1": "Mars Rei (marsRei)",
+            "competitor2": "Jasmine Kaur (jasmine04k)",
+            "competitor3": "Safica Mougamadou (safMou)"
+        }
+    ]
+}

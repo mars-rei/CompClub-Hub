@@ -1,0 +1,32 @@
+login details for users and admins
+
+STRUCTURE OF LOGIN DETAILS 
+username
+password
+
+
+
+LOGIN DETAILS FOR USER ACCOUNTS
+marsRei 
+bcu4life
+
+safMou
+idkwhattoputhere
+
+jasmine04k
+jasmeana
+
+
+
+LOGIN DETAILS FOR ADMIN ACCOUNTS
+marsAcademicWeapon
+#notVictim
+
+marsFailure
+#victim 
+
+saficaBadmintonSmasher
+me@21pointer
+
+jasmineGM
+chessOnTop100%

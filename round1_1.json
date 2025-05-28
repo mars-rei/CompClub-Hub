@@ -1,0 +1,38 @@
+{
+    "competitionName": "Who Can Get This Coding Task Working The Quickest?",
+    "startingRank": [
+        {
+            "rank": 1,
+            "username": "jasmine04k",
+            "name": "Jasmine Kaur",
+            "score": "0"
+        },
+        {
+            "rank": 2,
+            "username": "marsRei",
+            "name": "Mars Rei",
+            "score": "0"
+        },
+        {
+            "rank": 3,
+            "username": "safMou",
+            "name": "Safica Mougamadou",
+            "score": "0"
+        }
+    ],
+    "round1schedule": "2025-01-26 20:00:00",
+    "pairings": [
+        {
+            "match": 1,
+            "competitor1": "Jasmine Kaur (jasmine04k)",
+            "competitor1_score": "0",
+            "competitor2": "Mars Rei (marsRei)",
+            "competitor2_score": "0"
+        },
+        {
+            "match": "Bye",
+            "competitor1": "Safica Mougamadou (safMou)",
+            "competitor1_score": "0"
+        }
+    ]
+}

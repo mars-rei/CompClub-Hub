@@ -1,0 +1,26 @@
+[
+    {
+        "competitionID": "1",
+        "competitor1": {
+            "userID": "1",
+            "score": 1
+        },
+        "competitor2": {
+            "userID": "2",
+            "score": 0
+        },
+        "result": "1"
+    },
+    {
+        "competitionID": "1",
+        "competitor1": {
+            "userID": "3",
+            "score": 1
+        },
+        "competitor2": {
+            "userID": "0",
+            "score": 0
+        },
+        "result": "1"
+    }
+]
