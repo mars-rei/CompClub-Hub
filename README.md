@@ -1,9 +1,9 @@
 # CompClub-Hub
 
 This project is brought to you by:
-Imogen Dicen 
-Safica Assane Mougamadou
-Jasmine Kaur 
+Imogen 
+Safica 
+Jasmine 
 
 
 To run this project, Apache and PHP must be installed (preferably use XAMPP stack).
@@ -13,7 +13,7 @@ CompClubHub is a web application that will help club admins to manage their club
 
 Files to take note of:
 loginDetails.txt - contains user and admin login details currently stored in this project's database
-23127176_23127383_23160722.sql - contains the sql database creation script of CompClubHub
+compclubhub.sql - contains the sql database creation script of CompClubHub
 updated erm.jpg - the updated entity relationship model
 
 Folder to take note of:
