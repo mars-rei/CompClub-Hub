@@ -1,5 +1,5 @@
 <!-- feature missed:
-- reactivating and deactivating club member memberships
+- reactivating and deactivating club member memberships -->
 
 <?php
   session_start();
